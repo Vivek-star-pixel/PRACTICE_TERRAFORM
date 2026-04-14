@@ -3,3 +3,9 @@ resource "azurerm_resource_group" "vky_ka_rg" {
   location = "east us"
 
 }
+
+resource "azurerm_resource_group" "vky_ka_rg1" {
+  name     = "test1"
+  location = "east us"
+
+}
