@@ -5,7 +5,7 @@ resource "azurerm_resource_group" "vky_ka_rg" {
 }
 
 resource "azurerm_resource_group" "vky_ka_rg1" {
-  name     = "test1"
+  name     = "test2"
   location = "east us"
 
 }
